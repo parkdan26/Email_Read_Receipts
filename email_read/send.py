@@ -8,7 +8,7 @@ from email.mime.multipart import MIMEMultipart
 
 
 YOU = "parkdan26@gmail.com"
-PASS = "kebo coao ngjl ywhb"
+PASS = ""
 TARGET = "sungeunp623@gmail.com"
 
 SUBJECT = "TESTING"
